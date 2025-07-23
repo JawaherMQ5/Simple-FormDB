@@ -47,10 +47,10 @@ This project is a basic PHP web application that allows users to submit their fi
 
 | File Name     | Description                      | Link |
 |---------------|----------------------------------|------|
-| index.html  | The HTML form                    | [View](./https://github.com/JawaherMQ5/Simple-FormDB/blob/main/index.html) |
-| submit.php  | PHP script to save and display data | [View](./https://github.com/JawaherMQ5/Simple-FormDB/blob/main/submit.php) |
-| screenshot_form_page.jpg | Screenshot of the form     | [View](./https://github.com/JawaherMQ5/Simple-FormDB/blob/main/Form.png) |
-| screenshot_data_table.jpg | Screenshot of the data table | [View](./https://github.com/JawaherMQ5/Simple-FormDB/blob/main/SQl.png) |
+| index.html  | The HTML form                    | [View](./index.html) |
+| submit.php  | PHP script to save and display data | [View](./submit.php) |
+| screenshot_form_page.jpg | Screenshot of the form     | [View](./screenshots/screenshot_form_page.jpg) |
+| screenshot_data_table.jpg | Screenshot of the data table | [View](./screenshots/screenshot_data_table.jpg) |
 
 ---
 ## 💻 How to Run
